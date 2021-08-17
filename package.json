@@ -1,6 +1,6 @@
 {
 	"name": "test-runner-cli",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "A simple way to run tests",
 	"main": "bin.js",
 	"type": "module",
