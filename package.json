@@ -1,0 +1,31 @@
+{
+	"name": "test-runner-cli",
+	"version": "0.0.1",
+	"description": "a simple way to run tests",
+	"main": "bin.js",
+	"type": "module",
+	"scripts": {
+		"test": "./bin.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yuler/test-runner-cli.git"
+	},
+	"keywords": [
+		"test",
+		"bin",
+		"cli"
+	],
+	"author": "yuler <is.yuler@gmail.com>",
+	"license": "MIT",
+	"bin": {
+		"test-runner": "./bin.js"
+	},
+	"engines": {
+		"node": "^14.13.1 || >=16.0.0"
+	},
+	"bugs": {
+		"url": "https://github.com/yuler/test-runner-cli/issues"
+	},
+	"homepage": "https://github.com/yuler/test-runner-cli#readme"
+}
